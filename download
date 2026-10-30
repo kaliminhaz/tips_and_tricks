@@ -1,0 +1,4 @@
+APP_ENV=training
+DB_HOST=db.hackosquad.test
+DB_USER=training_admin
+DB_PASSWORD=REDACTED_ROTATE_THIS_VALUE

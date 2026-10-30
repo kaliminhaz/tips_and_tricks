@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7b09e270a75b27260a0e5a880b24c70b7bbf952d Hackosquad Training <training@hackosquad.example> 1793372043 +0000	commit (initial): Initial demo application setup
+7b09e270a75b27260a0e5a880b24c70b7bbf952d 68723861fb6993d3f28d79cc431e769aca37d4ac Hackosquad Training <training@hackosquad.example> 1793372043 +0000	commit: Add database connection configuration
+68723861fb6993d3f28d79cc431e769aca37d4ac a8aca26d8b79a392f348af75778a543e0f366306 Hackosquad Training <training@hackosquad.example> 1793372043 +0000	commit: Add demo payment API integration
+a8aca26d8b79a392f348af75778a543e0f366306 72619dd7e7bfa550b0a808043671460bc7d5c8d8 Hackosquad Training <training@hackosquad.example> 1793372043 +0000	commit: Remove accidentally exposed credentials
+72619dd7e7bfa550b0a808043671460bc7d5c8d8 8b7f196b6dd837842194b588ceb4dae53bd3dc55 Hackosquad Training <training@hackosquad.example> 1793372043 +0000	commit: Add setup documentation

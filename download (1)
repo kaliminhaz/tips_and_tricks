@@ -1,0 +1,8 @@
+# Typical generated files
+node_modules/
+*.log
+.DS_Store
+
+# NOTE FOR STUDENTS:
+# This training repository intentionally has an incomplete ignore policy.
+# The .env file is tracked to demonstrate why secret files should be excluded.

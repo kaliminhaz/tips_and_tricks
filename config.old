@@ -1,0 +1,3 @@
+# Archived training configuration. No real service uses these values.
+APP_ENV=training
+HACKOSQUAD_ARCHIVE_PASSWORD=HACKOSQUAD{ARCHIVE_CONFIG_LEAK_03}
