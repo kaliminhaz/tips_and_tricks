@@ -3,5 +3,5 @@
 $dbHost = "db.hackosquad.test";
 $dbName = "training_portal";
 $dbUser = "training_admin";
-$dbPassword = "REDACTED_ROTATE_THIS_VALUE";
+$dbPassword = "REDACTED_ROTATE_THIS_VALUE";  // temp password is passwordisalive
 ?>
